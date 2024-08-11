@@ -4,7 +4,7 @@ This is a simple Pomodoro timer application built with Python and Tkinter. It he
 
 
 
-[![Watch the video](https://github.com/user-attachments/assets/e06de5bb-5e10-4228-98da-d558e66f5a91)
+[!Watch the video](https://github.com/user-attachments/assets/e06de5bb-5e10-4228-98da-d558e66f5a91)
 
 **Note**: The video is sped up, but the timer accurately shows the real-time duration in seconds.
 
